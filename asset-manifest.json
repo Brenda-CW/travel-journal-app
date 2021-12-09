@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/travel-journal-app/static/css/main.60898a82.chunk.css",
+    "main.js": "/travel-journal-app/static/js/main.08c33b9e.chunk.js",
+    "main.js.map": "/travel-journal-app/static/js/main.08c33b9e.chunk.js.map",
+    "runtime-main.js": "/travel-journal-app/static/js/runtime-main.ef68ef74.js",
+    "runtime-main.js.map": "/travel-journal-app/static/js/runtime-main.ef68ef74.js.map",
+    "static/js/2.f2a64e7f.chunk.js": "/travel-journal-app/static/js/2.f2a64e7f.chunk.js",
+    "static/js/2.f2a64e7f.chunk.js.map": "/travel-journal-app/static/js/2.f2a64e7f.chunk.js.map",
+    "index.html": "/travel-journal-app/index.html",
+    "static/css/main.60898a82.chunk.css.map": "/travel-journal-app/static/css/main.60898a82.chunk.css.map",
+    "static/js/2.f2a64e7f.chunk.js.LICENSE.txt": "/travel-journal-app/static/js/2.f2a64e7f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef68ef74.js",
+    "static/js/2.f2a64e7f.chunk.js",
+    "static/css/main.60898a82.chunk.css",
+    "static/js/main.08c33b9e.chunk.js"
+  ]
+}
